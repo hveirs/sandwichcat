@@ -10,4 +10,5 @@
 multiply_median_vector <- function(vec) {
   median_val <- median(vec) * vec
   return(median_val)
+  print("Good job!")
 }
